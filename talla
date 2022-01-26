@@ -1,0 +1,31 @@
+<div class="radio-wrapper js product-form__item">
+                    <label class="single-option-radio__label" for="ProductSelect-option-1">
+                      Tamaño
+                    </label>
+                    
+                      <fieldset class="single-option-radio" id="ProductSelect-option-1">
+                        
+                        
+                          
+                          
+                          <input type="radio" value="Size S" data-index="option2" name="option2" class="single-option-selector__radio" id="ProductSelect-option-tamano-Size S">
+                          <label for="ProductSelect-option-tamano-Size S">Size S</label>
+                        
+                          
+                          
+                          <input type="radio" checked="checked" value="Size M" data-index="option2" name="option2" class="single-option-selector__radio" id="ProductSelect-option-tamano-Size M">
+                          <label for="ProductSelect-option-tamano-Size M">Size M</label>
+                        
+                          
+                          
+                          <input type="radio" value="Size L" data-index="option2" name="option2" class="single-option-selector__radio" id="ProductSelect-option-tamano-Size L">
+                          <label for="ProductSelect-option-tamano-Size L">Size L</label>
+                        
+                          
+                          
+                          <input type="radio" value="Size XL" data-index="option2" name="option2" class="single-option-selector__radio" id="ProductSelect-option-tamano-Size XL">
+                          <label for="ProductSelect-option-tamano-Size XL">Size XL</label>
+                        
+                      </fieldset>
+                    
+                  </div>
